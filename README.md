@@ -1,7 +1,7 @@
 # ShopSmart-Retail
 An inventory and order management system
 
-## Using OOPs prince to make the project
+## Using OOPs principle to make the project
 
 ## Using FastApi to make backend
 
