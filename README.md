@@ -1,4 +1,5 @@
 # ShopSmart-Retail
+
 An inventory and order management system
 
 ## Using OOPs principle to make the project
@@ -7,5 +8,11 @@ An inventory and order management system
 
 ## Using SQLite for databases
 
+Using SQLAlchemy ORM
+
 ## Using Async to run tasks concurrently
+
+## Using Docker to containarize
+
+## Using pytest for unit tests
 
